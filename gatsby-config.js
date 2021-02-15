@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ephemerablog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lucas Gonze`,
+      summary: `Occam's Barber`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A blog with only one page ever.`,
+    siteUrl: `https://ephemerablog.vercel.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `lucasgonze`,
     },
   },
   plugins: [
