@@ -8,7 +8,7 @@ Hello, and welcome to the first post on my ephemeral blog!  How exciting! I supp
 
 This page in modest in a humblest-person-ever way.
 
-It occurred to me that there should exist a blog with one little post. Just one. But it would not stay the same. This is it. The one and only, assuming - correctly - no similar thing existed before or after. The singleton.
+It occurred to me that there should exist a blog with one little post. Just one. But it would not stay the same. This is it. Not *a* singleton, *the* singleton.
 
 Not a reverse-chronological feed. Just a single thing. You have finally reached the end of the Internet. No, not [that one](http://hmpg.net/ "there"). 
 
