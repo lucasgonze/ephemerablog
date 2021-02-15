@@ -1,7 +1,7 @@
 ---
 title: The one and only post
 date: "2021-02-15T22:12:03.284Z"
-description: "An ephemeral blog only ever has one post"
+description: "If you click on this link, you will see the one and only post ever"
 ---
 
 Hello, and welcome to the first post on my ephemeral blog!  How exciting! I suppose I should make it good. 
