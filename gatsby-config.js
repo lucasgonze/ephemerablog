@@ -3,7 +3,7 @@ module.exports = {
     title: `Ephemerablog`,
     author: {
       name: `Lucas Gonze`,
-      summary: `Occam's Barber`,
+      summary: `(Occam's Barber)`,
     },
     description: `A blog with only one page ever.`,
     siteUrl: `https://ephemerablog.vercel.app/`,
