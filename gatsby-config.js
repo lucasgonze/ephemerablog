@@ -8,7 +8,7 @@ module.exports = {
     description: `A blog with only one page ever.`,
     siteUrl: `https://ephemerablog.vercel.app/`,
     social: {
-      twitter: `lucasgonze`,
+      twitter: `lucas_gonze`,
     },
   },
   plugins: [
