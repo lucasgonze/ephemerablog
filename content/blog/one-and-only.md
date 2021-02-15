@@ -12,10 +12,10 @@ It occurred to me that there should exist, and could exist, a blog with one litt
 
 Not a reverse-chronological feed. Just a single thing. You have finally reached the end of the Internet. No, not [there](http://hmpg.net/ "there"). 
 
-No archive. No memory. Just a thing that changes. 
+No archive. No memory. Just a thing that changes(*)[https://ephemerablog.vercel.app/rss.xml]. 
 
 Someday I will update this, though you will almost certainly not see it.
 
 I don't plan to publish regularly. I am not seeking to become an influencer. This is not a social network. This is not a part of my personal brand. It is more like a loud monologue in an otherwise-quiet spot in the woods.
 
- You could come back but you won't, except by accident. Goodbye. I hope you enjoy the rest of the Internet. 👋
+ You could come back but you won't, except by accident. Goodbye. I sincerely hope you enjoy the rest of the Internet. 👋
