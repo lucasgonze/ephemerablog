@@ -12,7 +12,7 @@ It occurred to me that there should exist, and could exist, a blog with one litt
 
 Not a reverse-chronological feed. Just a single thing. You have finally reached the end of the Internet. No, not [there](http://hmpg.net/ "there"). 
 
-No archive. No memory. Just a thing that changes(*)[https://ephemerablog.vercel.app/rss.xml]. 
+No archive. No memory. Just a thing that changes[*](https://ephemerablog.vercel.app/rss.xml). 
 
 Someday I will update this, though you will almost certainly not see it.
 
