@@ -6,16 +6,12 @@ description: "When Candide meets up with his old tutor Pangloss, the latter is i
 
 Hello, and welcome to the first post on my ephemeral blog!  How exciting! I suppose I should make it good. 
 
-This page in modest in a humblest-person-ever way.
+This page is modest in a humblest-person-ever way. It occurred to me that there should exist a blog with one little post. Just one. But it would not stay the same. This is it. Know of any others? Let me know.
 
-It occurred to me that there should exist a blog with one little post. Just one. But it would not stay the same. This is it. Not *a* singleton, *the* singleton.
-
-Not a reverse-chronological feed. Just a single thing. You have finally reached the end of the Internet. No, not [that one](http://hmpg.net/ "there"). 
+This is not a reverse-chronological feed. Just a single thing. You have finally reached the end of the Internet. No, not [that one](http://hmpg.net/ "there"). 
 
 No archive. No memory. Just a thing that changes[*](https://ephemerablog.vercel.app/rss.xml). 
 
-Someday I will update this, though you will almost certainly not see it.
-
 I don't plan to publish regularly. I am not seeking to become an influencer. This is not a social network. This is not brand-buiilding. It is more like a loud monologue in an otherwise-quiet spot in the woods.
 
- You could come back but you won't, except by accident. Goodbye and good luck. I sincerely hope you enjoy the rest of the Internet. 👋
+Well, that's it. Goodbye and good luck. I sincerely hope you enjoy the rest of the Internet. 👋
